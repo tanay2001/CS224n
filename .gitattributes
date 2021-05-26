@@ -1,0 +1,2 @@
+*.py linguist-detectable=true
+*.es linguist-detectable=false
